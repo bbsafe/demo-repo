@@ -1,3 +1,3 @@
 #DEMO
 
-Git, Github related commands 
+Git, Github related commands.
